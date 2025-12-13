@@ -69,10 +69,11 @@ Conda скачивает программы не «из интернета во�
 
 ### 2.1 Скачать Miniforge (уже содержит mamba)
 
+
 ```bash
 wget "https://github.com/conda-forge/miniforge/releases/latest/download/Miniforge3-$(uname)-$(uname -m).sh"
 ```
-
+(взято отсюда https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://github.com/conda-forge/miniforge&ved=2ahUKEwifz6isxrqRAxXx8bsIHameLq0QFnoECBkQAQ&usg=AOvVaw1W5OU8UZbZL8QUDGaVqDFa)
 
 ---
 
